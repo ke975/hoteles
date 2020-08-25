@@ -1,0 +1,19 @@
+{
+  "name": "hoteles",
+  "version": "1.0.0",
+  "description": "primer proyecto node ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ke975/hoteles.git"
+  },
+  "author": "kevin castillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ke975/hoteles/issues"
+  },
+  "homepage": "https://github.com/ke975/hoteles#readme"
+}
