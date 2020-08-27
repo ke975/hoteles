@@ -1,0 +1,19 @@
+ .jumbotron{
+color: white;
+
+justify-items: center;
+}
+
+.display-4{
+    justify-content: center;
+}
+
+.btn{
+    color:white;
+}
+
+.col-sm-4 a{
+    list-style: none;
+    color: black;
+    margin-top: 10px;
+}
