@@ -2,6 +2,8 @@
 color: white;
 
 justify-items: center;
+
+margin-top: 50px;
 }
 
 .display-4{
@@ -15,5 +17,11 @@ justify-items: center;
 .col-sm-4 a{
     list-style: none;
     color: black;
+    margin-top: 10px;
+}
+
+.card-hotel{
+    flex: 1 200px;
+    padding: 2px 5px 2px 5px;
     margin-top: 10px;
 }
