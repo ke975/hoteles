@@ -1,7 +1,7 @@
 {
-  "name": "hoteles",
+  "name": "guia-hoteles",
   "version": "1.0.0",
-  "description": "primer proyecto node ",
+  "description": "Proyecto en Node.js",
   "main": "index.html",
   "scripts": {
     "dev": "lite-server",
@@ -9,14 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ke975/hoteles.git"
+    "url": "git+https://magabit@bitbucket.org/magabit/guia-hoteles.git"
   },
-  "author": "kevin castillo",
+  "author": "Alejandra",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ke975/hoteles/issues"
-  },
-  "homepage": "https://github.com/ke975/hoteles#readme",
+  "homepage": "https://bitbucket.org/magabit/guia-hoteles#readme",
   "devDependencies": {
     "lite-server": "^2.5.4"
   },
