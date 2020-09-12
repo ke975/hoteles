@@ -9,11 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://magabit@bitbucket.org/magabit/guia-hoteles.git"
+    "url": "https://github.com/ke975/hoteles"
   },
-  "author": "Alejandra",
+  "author": "Kevin castillo",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/magabit/guia-hoteles#readme",
+  "homepage": "https://github.com/ke975/hoteles/blob/master/readme",
   "devDependencies": {
     "lite-server": "^2.5.4"
   },
